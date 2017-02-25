@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/FPGA_PROJECTS/Computer/tst_cpu_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tst_cpu" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/tst_cpu/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst_cpu/uut/write_reg" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">write_reg</obj_property>
+      <obj_property name="ObjectShortName">write_reg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst_cpu/uut/op1_value" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">op1_value[15:0]</obj_property>
+      <obj_property name="ObjectShortName">op1_value[15:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff0000</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst_cpu/uut/write_op1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">write_op1</obj_property>
+      <obj_property name="ObjectShortName">write_op1</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ff0000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst_cpu/uut/op2_value" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">op2_value[15:0]</obj_property>
+      <obj_property name="ObjectShortName">op2_value[15:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#0000ff</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst_cpu/uut/write_op2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">write_op2</obj_property>
+      <obj_property name="ObjectShortName">write_op2</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#0000ff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst_cpu/uut/reg_addr" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">reg_addr[3:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_addr[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst_cpu/uut/reg_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">reg_out[15:0]</obj_property>
+      <obj_property name="ObjectShortName">reg_out[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst_cpu/uut/alu_res" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">alu_res[16:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_res[16:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tst_cpu/uut/alu_saved" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">alu_saved[15:0]</obj_property>
+      <obj_property name="ObjectShortName">alu_saved[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

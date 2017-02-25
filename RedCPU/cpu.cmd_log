@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "C:/FPGA_PROJECTS/Computer/cpu.xst" -ofn "C:/FPGA_PROJECTS/Computer/cpu.syr" 
+xst -intstyle ise -ifn "C:/FPGA_PROJECTS/Computer/cpu.xst" -ofn "C:/FPGA_PROJECTS/Computer/cpu.syr" 
+xst -intstyle ise -ifn "C:/FPGA_PROJECTS/Computer/cpu.xst" -ofn "C:/FPGA_PROJECTS/Computer/cpu.syr" 
+xst -intstyle ise -ifn "C:/FPGA_PROJECTS/Computer/cpu.xst" -ofn "C:/FPGA_PROJECTS/Computer/cpu.syr" 
+xst -intstyle ise -ifn "C:/FPGA_PROJECTS/Computer/cpu.xst" -ofn "C:/FPGA_PROJECTS/Computer/cpu.syr" 
+xst -intstyle ise -ifn "C:/FPGA_PROJECTS/Computer/cpu.xst" -ofn "C:/FPGA_PROJECTS/Computer/cpu.syr" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/FPGA_PROJECTS/Computer/tst_computer_isim_beh.exe" -prj "C:/FPGA_PROJECTS/Computer/tst_computer_beh.prj" "work.tst_computer" "work.glbl" 

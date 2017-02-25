@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/FPGA_PROJECTS/Computer/alu.xst" -ofn "C:/FPGA_PROJECTS/Computer/alu.syr" 

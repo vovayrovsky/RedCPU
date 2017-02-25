@@ -1,0 +1,7 @@
+verilog work "reg_file.v"
+verilog work "register.v"
+verilog work "mux.v"
+verilog work "counter.v"
+verilog work "ControlUnit.v"
+verilog work "alu.v"
+verilog work "cpu.v"
